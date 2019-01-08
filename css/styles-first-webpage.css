@@ -1,0 +1,20 @@
+h1 {
+  color: purple;
+  font-family: fantasy;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+p {
+  font-style: serif;
+  font-size: 20px;
+}
+ul {
+  font-weight: bold;
+  line-height: 20px;
+}
+img {
+  height: 200px;
+  width: 70%;
+}
