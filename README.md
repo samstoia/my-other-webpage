@@ -1,8 +1,8 @@
-# _{My-First-Webpage}_
+# My-First-Webpage
 
-#### _{In class practices of making various simple web pages including a page on favorite things, a fish blog, a cat blog, and a brief history of rocket ships}, {Date of current version: 1/7/2019}_
+#### In class practices of making various simple web pages including a page on favorite things, a fish blog, a cat blog, and a brief history of rocket ships}, {Date of current version: 1/7/2019
 
-#### By _**{Micaela Jawor and Theary Im}**_
+#### By: Micaela Jawor and Theary Im
 
 ## Description
 
