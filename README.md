@@ -11,7 +11,7 @@ This is webpage first opens up on my-first-webpage in which we cover what we wil
 ## Setup/Installation Requirements
 
 * using Git Bash
-* git clone https://github.com/MicaelaDJ/my-first-webpage
+* git clone https://github.com/samstoia/my-first-webpage
 * find the file on your computer
 * open the desired webpage or README file
 
@@ -21,7 +21,7 @@ So far no known bugs
 
 ## Support and contact details
 
-If you run into any issues or have questions, ideas or concerns, or want to make a contribution to the code please contact me at micaelajawor@yahoo.com.
+If you run into any issues or have questions, ideas or concerns, or want to make a contribution to the code please contact me at samstoia@gmail.com.
 
 ## Technologies Used
 
