@@ -25,6 +25,8 @@ If you run into any issues or have questions, ideas or concerns, or want to make
 
 ## Technologies Used
 
+* HTML
+* CSS
 * Atom
 * Git Bash
 
